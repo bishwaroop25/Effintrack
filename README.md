@@ -8,6 +8,13 @@ Effintrack | Free employee productivity monitoring tool
 2. Agent | Date | Time | Event (Screen event monitoring).
 3. Records clock in time, total work hours, break hours etc. (Productivity management)
 
+Functionalities:
+Records clock in and clock out time.
+Marks short and long break separately.
+Monitors user's activity.
+Captures organizational down times and team meetings.
+Calculates total break duration and net working hours (total active hours - total break hours).
+
 Note: Ethical utilization would be appreciated.
 
 Designed and developed by: 
