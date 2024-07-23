@@ -19,8 +19,8 @@ Note: Ethical utilization would be appreciated.
 
 Designed and developed by: 
 Bishwaroop Bhattacharjee 
-<bishwaroop25@gmail.com>
-www.linkedin.com/in/bishwaroopbhattacharjee
+Email: bishwaroop25@gmail.com
+Linkedin: www.linkedin.com/in/bishwaroopbhattacharjee
 
 
 
